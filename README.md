@@ -7,7 +7,7 @@
 
 **Tools used:** Medusa, Nmap, netcat, ssh, custom wordlists
 
-**Author:** Pardhasaradhi (you can change this before pushing to GitHub)
+**Author:** Pardhasaradhi
 
 ---
 
